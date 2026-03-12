@@ -14,11 +14,11 @@
 
 ## 📋 Table of Contents
 
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Disclaimer](#disclaimer)
-- [License](#license)
-- [Contact](#contact)
+- [Features](#-features)
+- [Technologies Used](#-technologies-used)
+- [Disclaimer](#-disclaimer)
+- [License](#-license)
+- [Contact](#-contact)
 
 ---
 
