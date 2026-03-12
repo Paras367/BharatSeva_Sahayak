@@ -1,0 +1,39 @@
+# robots.txt for BharatSeva Sahayak
+
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://Paras367.github.io/BharatSeva_Sahayak/sitemap.xml
+
+# Crawl-delay for polite crawling
+Crawl-delay: 1
+
+# Block access to any future private directories
+Disallow: /private/
+Disallow: /admin/
+Disallow: /config/
+
+# Allow all major search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+# Note: This is a static HTML site
+# All content is publicly accessible
+# No sensitive data is stored
