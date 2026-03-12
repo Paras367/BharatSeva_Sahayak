@@ -16,7 +16,7 @@
 
 - [Features](#-features)
 - [Technologies Used](#-technologies-used)
-- [Disclaimer](#-disclaimer)
+- [Disclaimer](#%EF%B8%8F-disclaimer)
 - [License](#-license)
 - [Contact](#-contact)
 
