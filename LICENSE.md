@@ -4,7 +4,7 @@ Copyright (c) 2026 BharatSeva Sahayak | भारतसेवा सहायक
 
 
 > **Project**: BharatSeva Sahayak — An unofficial citizen initiative to simplify access to Indian Government schemes & services  
-> **Repository**: https://github.com/Paras367/BharatSeva_Shayak 
+> **Repository**: https://github.com/Paras367/BharatSeva_Sahayak 
 > **Built with**: ❤️ for India | Supporting Digital India 🇮🇳
 
 ---
